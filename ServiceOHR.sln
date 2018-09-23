@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceOHR", "ServiceOHR\Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHR.Employees", "ServiceHR.Employees\ServiceHR.Employees.csproj", "{9940E78D-B455-4099-A18F-F3B47B2AE5F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHR.SPECFLOWTests", "ServiceHR.SPECFLOWTests\ServiceHR.SPECFLOWTests.csproj", "{21172E1F-02BA-40E1-AC86-03D20EF0EABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21172E1F-02BA-40E1-AC86-03D20EF0EABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21172E1F-02BA-40E1-AC86-03D20EF0EABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21172E1F-02BA-40E1-AC86-03D20EF0EABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21172E1F-02BA-40E1-AC86-03D20EF0EABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
