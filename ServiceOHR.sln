@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceOHR", "ServiceOHR\ServiceOHR.csproj", "{301B5162-8D3E-4472-81AB-B8BDB3511D2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHR.Employees", "ServiceHR.Employees\ServiceHR.Employees.csproj", "{9940E78D-B455-4099-A18F-F3B47B2AE5F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{301B5162-8D3E-4472-81AB-B8BDB3511D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{301B5162-8D3E-4472-81AB-B8BDB3511D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{301B5162-8D3E-4472-81AB-B8BDB3511D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9940E78D-B455-4099-A18F-F3B47B2AE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
