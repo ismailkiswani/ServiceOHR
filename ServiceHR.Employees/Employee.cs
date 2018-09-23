@@ -7,5 +7,6 @@ namespace ServiceHR.Employees
         private string _emp_id;
         private string _emp_name;
         private string _emp_middlename;
+        private string _emp_last_name;
     }
 }
